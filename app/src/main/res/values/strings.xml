@@ -1,0 +1,11 @@
+<resources>
+    <string name="root_url">http://10.13.2.185:3000/api/Obese</string>
+    <string name="app_name">Obesity Prediction</string>
+    <string name="age">อายุ</string>
+    <string name="gender">เพศ</string>
+    <string name="height">ส่วนสูง</string>
+    <string name="weight">น้ำหนัก</string>
+    <string name="predict">แสดงผล</string>
+    <string name="title">การทำนายโรคอ้วน</string>
+    <string name="prediction_result_placeholder">ผลการทำนายจะปรากฏที่นี่</string>
+</resources>
